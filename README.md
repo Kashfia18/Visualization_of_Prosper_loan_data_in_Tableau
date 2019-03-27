@@ -6,4 +6,4 @@ Using Tableau visualization the following points were shown:
 1) The variables that could contribute to prosper ratings.
 2) A comparison of the estimated return with the actual return.
 
-The final version of the Tableau story is available [here](https://public.tableau.com/profile/kashfia.faruque#!/vizhome/prosperloandataversion2/Story1)
+The final version of the Tableau story is available [here](https://public.tableau.com/profile/kashfia.faruque#!/vizhome/prosperloandataversion2/Story1).
